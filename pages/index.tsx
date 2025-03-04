@@ -15,7 +15,7 @@ export default function Home() {
     return (
         <Layout>
             <h1 className="text-4xl font-bold">Hello, Next.js com Tailwind!</h1>
-            <p className="text-lg text-gray-700 mt-2">Esta é sua página inicial.</p>
+            <p className="text-lg text-gray-700 mt-2">Configuração do CI/CD com GitHub Actions</p>
         </Layout>
     );
 }
