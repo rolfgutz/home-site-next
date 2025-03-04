@@ -1,7 +1,10 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  images: {
+    domains: ['example.com'], // Adicione domínios de onde você vai carregar imagens
+  },
+  reactStrictMode: true, // Ativa o modo estrito do React para ajuda no desenvolvimento
 };
 
 export default nextConfig;

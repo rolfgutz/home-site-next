@@ -1,0 +1,3 @@
+@tailwind base; /* Estiliza elementos padrões como h1, p, etc. */
+@tailwind components; /* Permite criar componentes reutilizáveis com Tailwind */
+@tailwind utilities; /* Adiciona classes utilitárias como 'text-center', 'bg-red-500' */
